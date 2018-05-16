@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  accountnumber: MyString
+  status: MyString
+  rank: MyString
+
+two:
+  accountnumber: MyString
+  status: MyString
+  rank: MyString
